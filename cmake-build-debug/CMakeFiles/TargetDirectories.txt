@@ -1,0 +1,3 @@
+/Users/blackox626/CLionProjects/SDLAudio/cmake-build-debug/CMakeFiles/SDLAudio.dir
+/Users/blackox626/CLionProjects/SDLAudio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/blackox626/CLionProjects/SDLAudio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
